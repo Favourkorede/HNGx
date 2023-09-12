@@ -24,5 +24,3 @@ class InformationView(APIView):
             'github_file_url': github_file_url,
             'github_repo_url': github_repo_url,
             'status_code': 200,})
-
-class PersonView(
